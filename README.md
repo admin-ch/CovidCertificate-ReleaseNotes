@@ -5,6 +5,7 @@
 ### API - TEST
 
 - Remove attribute "date and time test result" for test covid certificate due to EU specification change
+- New UVCI prefix: urn:uvci:
 - Bug fixes
 
 ### Web Management UI - TEST
