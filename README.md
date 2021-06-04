@@ -2,13 +2,18 @@
 
 ## Release 20210607 - Monday, June 7th 2021
 
+### APPS
+
+- Covid Cert app (store covid certificates)
+- Covid Check app (verify covid certificates)
+
 ### API - Pilot
 
-- COVID Certificate API (generation & revocation)
+- Covid Certificate API (generation & revocation)
 
 ### Web management UI
 
-- COVID Certificate Web management UI (generation & revocation and generation of OneTime password)
+- Covid Certificate Web management UI (generation & revocation and generation of OneTime password)
 
 ## Release 20210528 - Friday, May 28th 2021
 
