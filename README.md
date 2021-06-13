@@ -2,7 +2,7 @@
 
 ## Release 20210614 - Monday, June 14th 2021
 
-### API
+### [API](https://ws.covidcertificate.bag.admin.ch)
 
 - Covid Certificate API (generation & revocation)
 
