@@ -1,5 +1,19 @@
 # Release notes
 
+## Release 20210614 - Monday, June 14th 2021
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+
+- Covid Certificate API (generation & revocation)
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- Bugfixing
+
+### [Covid Certificate Form](https://covidcertificate-form.admin.ch/)
+
+- COVID certificate application form for people who have recovered 
+
 ## Release 20210607 - Monday, June 7th 2021
 
 ### APPS
@@ -11,7 +25,7 @@
 
 - Covid Certificate API (generation & revocation)
 
-### Web management UI
+### [Web management UI](https://www.covidcertificate.admin.ch/)
 
 - Covid Certificate Web management UI (generation & revocation and generation of OneTime password)
 
