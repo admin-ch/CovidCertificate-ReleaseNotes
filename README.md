@@ -1,5 +1,25 @@
 # Release notes
 
+## Release 20210621 - Monday, June 21th 2021
+
+### APPS
+
+- Covid Cert app uses Verification API
+- Covid Check app uses Verification API
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+
+- Printing API to send covid certificates per Post
+- Verification API to deliver EU trust list, revocation list and business rules 
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- CSV Upload (BETA) to create several covid certificates - [Doc](https://github.com/admin-ch/CovidCertificate-UIdoc)
+
+### [Covid Certificate Form](https://covidcertificate-form.admin.ch/)
+
+- CSV Upload to generate SMS notification for the users for whom no certificate can be issued
+
 ## Release 20210614 - Monday, June 14th 2021
 
 ### [API](https://ws.covidcertificate.bag.admin.ch)
