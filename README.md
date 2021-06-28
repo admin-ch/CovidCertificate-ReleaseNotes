@@ -1,5 +1,21 @@
 # Release notes
 
+## Release 20210628 - Monday, June 28th 2021
+
+### APPS
+
+- Covid Cert app InApp delivery
+- Covid Cert app PDF import
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+
+- [InApp delivery API](https://github.com/admin-ch/CovidCertificate-Apidoc#transfer-data) to deliver Covid certificate securely and directly to the Covid Cert app
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- [Print](https://github.com/admin-ch/CovidCertificate-Apidoc#address-data) or [InApp](https://github.com/admin-ch/CovidCertificate-Apidoc#transfer-data) delivery can be selected for Covid certificates delivery
+- CSV Upload to create several covid certificates - [Doc](https://github.com/admin-ch/CovidCertificate-UIdoc)
+
 ## Release 20210621 - Monday, June 21th 2021
 
 ### APPS
