@@ -1,5 +1,21 @@
 # Release notes
 
+## Release 20210712 - Monday, July 12th 2021
+
+### APPS
+
+- Covid Cert app - Certificate light
+- Covid Check app - Certificate light support 
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+
+- EU Gateway connected since 08.07.2021
+- Bugfixing
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- Bugfixing
+
 ## Release 20210628 - Monday, June 28th 2021
 
 ### APPS
