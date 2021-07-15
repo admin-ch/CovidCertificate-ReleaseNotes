@@ -4,7 +4,7 @@
 
 ### [Management Service](https://github.com/admin-ch/CovidCertificate-Management-Service)
 
-- Hotfix allow blank appCodes
+- Hotfix: Allow blank values (empty or null) for 'appCode' property of request payload.
 
 ## Release 20210712 - Monday, July 12th 2021
 
