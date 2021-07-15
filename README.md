@@ -1,5 +1,11 @@
 # Release notes
 
+## Hotfix Release 20210715 - Thursday, July 15th 2021
+
+### [Management Service](https://github.com/admin-ch/CovidCertificate-Management-Service)
+
+- Hotfix allow blank appCodes
+
 ## Release 20210712 - Monday, July 12th 2021
 
 ### APPS
