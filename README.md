@@ -1,5 +1,22 @@
 # Release notes
 
+## Release 20210823 - Monday, August 23th 2021
+
+### APPS
+
+- Bugfixing
+- Language selection in the android app
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+
+- ValueSet-API available on TEST
+- Optimizations
+- Bugfixing
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- Bugfixing
+
 ## Release 20210809 - Monday, August 9th 2021
 
 ### APPS
