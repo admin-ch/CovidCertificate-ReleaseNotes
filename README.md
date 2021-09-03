@@ -1,5 +1,22 @@
 # Release notes
 
+## Release 20210906 - Monday, September 6th 2021
+
+### APPS
+
+- Bugfixing
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+
+- ValueSet-API
+- Optimizations
+- Bugfixing
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- New ValueSet for Rapid tests
+- Bugfixing
+
 ## Release 20210823 - Monday, August 23th 2021
 
 ### APPS
