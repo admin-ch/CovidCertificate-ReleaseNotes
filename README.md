@@ -1,6 +1,6 @@
 # Release notes
 
-## Release 20210906 - Monday, September 6th 2021
+## Release 20210913 - Monday, September 13th 2021
 
 ### APPS
 
