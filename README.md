@@ -1,5 +1,31 @@
+
 # Release notes
 
+## Release 20211002 - Saturday, October 2nd 2021
+
+### APPS
+
+#### Android
+##### COVID Certificate
+- Performance of QR code scanner optimised
+- Further improvements and bug fixes
+##### COVID Certificate Check
+- Performance of QR code scanner optimised
+- Integration of external hardware scanners
+- Further improvements and bug fixes
+#### iOS
+##### COVID Certificate
+- Further improvements and bug fixes
+##### COVID Certificate Check
+- Further improvements and bug fixes
+
+### [API](https://ws.covidcertificate.bag.admin.ch)
+- Vaccination and Recovery certificates are restricted to Switzerland as country of vaccination (**countryOfVaccination: 'CH'**) or test (**countryOfTest: 'CH'**).
+
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
+- New vaccine products.
+- Generate multiple certificates (CSV): Vaccination and Recovery certificates are restricted to Switzerland as country of vaccination or test. Vaccination certificates are restricted to medicinalProductCode EU/1/20/1507, EU/1/20/1525, EU/1/20/1528.
 ## Release 20210913 - Monday, September 13th 2021
 
 ### APPS
