@@ -7,17 +7,32 @@
 
 #### Android
 ##### COVID Certificate
-- Performance of QR code scanner optimised
-- Further improvements and bug fixes
+- Warning message if Covid Cert App is incorrectly used to bulk check Covid certificates.
+Verification rules adapted: New and existing certificates of recovery (based on positive PCR test) now have a validity of 365 days after the start of vaccination protection in Switzerland. Existing certificates inside the app, in the form of an electronic document or on paper do not need to be reissued, because their validity is calculated at the time of testing. The testing rules abroad generally limit the use of Covid certificates to a maximum of 180 days.
+- Prepared for new recovery certificates based on positive antibody tests (seropositive), which can be carried out and issued by approved laboratories starting 16.11.2021.
+- Certificates which are valid and verifiable only in Switzerland display a corresponding information.
+- Covid Cert App and Covid Check App (for verifiers) are more resistant to temporary failures of the EU gateway serving the mutual provision of national verification keys.
+- Incorrectly displayed validities in case of deviations of the system time from the local time have been corrected.
+- Further optimisations, translations and bug fixes.
 ##### COVID Certificate Check
-- Performance of QR code scanner optimised
-- Integration of external hardware scanners
-- Further improvements and bug fixes
+- Verification rules adapted: All recovery certificates (based on a positive PCR test) now are valid for 365 days after the start of vaccination protection. Existing certificate documents (paper or PDF) with a fixed "valid until" date of less than 180 days after vaccination protection can now also be verified as being valid during the extended 365-day period, because the validity is only calculated during verification and starting from the day of vaccination.  
+- Prepared for verifying the new certificates of recovery based on positive antibody tests (seropositive), which can be conducted and issued by approved laboratories starting 16.11.2021.
+- Covid Cert App and Covid Check App (for verifiers) are more resistant to temporary downtimes of the EU gateway serving the mutual provision of national verification keys.
+- Further optimisations, translations and bug fixes.
 #### iOS
 ##### COVID Certificate
-- Further improvements and bug fixes
+- Warning message if Covid Cert App is incorrectly used to bulk check Covid certificates.
+Verification rules adapted: New and existing certificates of recovery (based on positive PCR test) now have a validity of 365 days after the start of vaccination protection in Switzerland. Existing certificates inside the app, in the form of an electronic document or on paper do not need to be reissued, because their validity is calculated at the time of testing. The testing rules abroad generally limit the use of Covid certificates to a maximum of 180 days.
+- Prepared for new recovery certificates based on positive antibody tests (seropositive), which can be carried out and issued by approved laboratories starting 16.11.2021.
+- Certificates which are valid and verifiable only in Switzerland display a corresponding information.
+- Covid Cert App and Covid Check App (for verifiers) are more resistant to temporary failures of the EU gateway serving the mutual provision of national verification keys.
+- Incorrectly displayed validities in case of deviations of the system time from the local time have been corrected.
+- Further optimisations, translations and bug fixes.
 ##### COVID Certificate Check
-- Further improvements and bug fixes
+- Verification rules adapted: All recovery certificates (based on a positive PCR test) now are valid for 365 days after the start of vaccination protection. Existing certificate documents (paper or PDF) with a fixed "valid until" date of less than 180 days after vaccination protection can now also be verified as being valid during the extended 365-day period, because the validity is only calculated during verification and starting from the day of vaccination.  
+- Prepared for verifying the new certificates of recovery based on positive antibody tests (seropositive), which can be conducted and issued by approved laboratories starting 16.11.2021.
+- Covid Cert App and Covid Check App (for verifiers) are more resistant to temporary downtimes of the EU gateway serving the mutual provision of national verification keys.
+- Further optimisations, translations and bug fixes.
 
 ### [API](https://ws.covidcertificate.bag.admin.ch)
 - Vaccination and Recovery certificates are restricted to Switzerland as country of vaccination (**countryOfVaccination: 'CH'**) or test (**countryOfTest: 'CH'**).
