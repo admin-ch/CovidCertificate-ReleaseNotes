@@ -1,6 +1,19 @@
 
 # Release notes
 
+## Release 20211117 - Wednesday, November 17th 2021
+
+### APPS
+
+#### Android
+##### COVID Certificate
+##### COVID Certificate Check
+#### iOS
+##### COVID Certificate
+##### COVID Certificate Check
+### [API](https://ws.covidcertificate.bag.admin.ch)
+### [Web management UI](https://www.covidcertificate.admin.ch/)
+
 ## Release 20211002 - Saturday, October 2nd 2021
 
 ### APPS
@@ -26,6 +39,7 @@
 
 - New vaccine products.
 - Generate multiple certificates (CSV): Vaccination and Recovery certificates are restricted to Switzerland as country of vaccination or test. Vaccination certificates are restricted to medicinalProductCode EU/1/20/1507, EU/1/20/1525, EU/1/20/1528.
+
 ## Release 20210913 - Monday, September 13th 2021
 
 ### APPS
