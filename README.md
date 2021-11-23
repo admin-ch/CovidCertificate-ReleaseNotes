@@ -3,7 +3,7 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|test|23.1.2021@14:41	|:rocket:|
+|[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|test|23.11.2021@14:41	|:rocket:|
 |[2.8](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.8)|prod|18.11.2021@21:11|:rocket:|
 
 :rocket: : currently deployed
