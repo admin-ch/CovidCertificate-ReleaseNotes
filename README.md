@@ -3,7 +3,7 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|test|23.11.2021@14:41	|:rocket:|
+|[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|test|23.11.2021@17:39	|:rocket:|
 |[2.8](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.8)|prod|18.11.2021@21:11|:rocket:|
 
 :rocket: : currently deployed
@@ -21,7 +21,7 @@
 |service|release|
 |----|----|
 |api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|
-|management-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.1)|
+|management-service|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.2)|
 management-ui|[2.9.1](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|
 
 # 2.8
