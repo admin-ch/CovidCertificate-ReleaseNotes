@@ -1,7 +1,7 @@
 
 # Release overview
 ## History
-|release|environment|date|note|
+|release|environment|last modified|note|
 |----|----|----|----|
 |[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|test|23.11.2021@17:39	|:rocket:|
 |[2.8](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.8)|prod|18.11.2021@21:11|:rocket:|
@@ -18,11 +18,11 @@
 * New vaccination certificate for tourists (interfaces: UI/[CSV](https://github.com/admin-ch/CovidCertificate-UIdoc)/[API](https://github.com/admin-ch/CovidCertificate-Apidoc))
 * Recovery (antibody test positive) certificate can only be generate with sample date >= 16.11.2021)
 #### Services release details
-|service|release|
-|----|----|
-|api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|
-|management-service|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.2)|
-management-ui|[2.9.1](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|
+|service|release|last modified|
+|----|----|----|
+|api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|23.11.2021@17:39|
+|management-service|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.2)|23.11.2021@17:39|
+management-ui|[2.9.1](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|23.11.2021@17:39|
 
 # 2.8
 ### APPS
