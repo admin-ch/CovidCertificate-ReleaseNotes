@@ -1,30 +1,34 @@
 
 # Release overview
 ## History
-|release|environment|last modified|note|
+|release|environment|date|note|
 |----|----|----|----|
-|[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|test|23.11.2021@17:39	|:rocket:|
-|[2.8](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.8)|prod|18.11.2021@21:11|:rocket:|
+|[2.9.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|24.11.2021@11:30	|:rocket:|
+|[2.9.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|23.11.2021@17:39	||
+|[2.9.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|23.11.2021@14:41	||
+|[2.9.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|23.11.2021@13:49	||
+|[2.8.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.8.x)|prod|18.11.2021@21:11|:rocket:|
 
 :rocket: : currently deployed
 ## Planned
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[2.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9)|30.11.2021@03:00-04:00|
+|prod|[2.9.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|30.11.2021@03:00-04:00|
 
 
-# 2.9
+# 2.9.x
 * New vaccination certificate for tourists (interfaces: UI/[CSV](https://github.com/admin-ch/CovidCertificate-UIdoc)/[API](https://github.com/admin-ch/CovidCertificate-Apidoc))
 * Recovery (antibody test positive) certificate can only be generate with sample date >= 16.11.2021)
+* The PDF is compatibel to the Swiss Confederation documentation style guide.
 #### Services release details
 |service|release|last modified|
 |----|----|----|
 |api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|23.11.2021@17:39|
-|management-service|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.2)|23.11.2021@17:39|
+|management-service|[2.9.3](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.2)|24.11.2021@11:30|
 management-ui|[2.9.1](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|23.11.2021@17:39|
 
-# 2.8
+# 2.8.x
 ### APPS
 
 #### Android
