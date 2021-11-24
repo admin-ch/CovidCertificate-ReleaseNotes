@@ -25,9 +25,9 @@
 #### Services release details
 |service|release|last modified|
 |----|----|----|
-|api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|23.11.2021@17:39|
+|api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|23.11.2021@13:42|
 |management-service|[2.9.4](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.4)|24.11.2021@16:02|
-management-ui|[2.9.1](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|23.11.2021@17:39|
+management-ui|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|24.11.2021@10:04|
 
 # 2.8.x
 ### APPS
