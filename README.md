@@ -3,18 +3,18 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[2.9.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|24.11.2021@11:30	|:rocket:|
-|[2.9.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|23.11.2021@17:39	||
-|[2.9.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|23.11.2021@14:41	||
-|[2.9.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|test|23.11.2021@13:49	||
-|[2.8.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.8.x)|prod|18.11.2021@21:11|:rocket:|
+|[2.9.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|24.11.2021@11:30	|:rocket:|
+|[2.9.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@17:39	||
+|[2.9.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@14:41	||
+|[2.9.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@13:49	||
+|[2.8.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#28x)|prod|18.11.2021@21:11|:rocket:|
 
 :rocket: : currently deployed
 ## Planned
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[2.9.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#2.9.x)|30.11.2021@03:00-04:00|
+|prod|[2.9.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|30.11.2021@03:00-04:00|
 
 
 # 2.9.x
