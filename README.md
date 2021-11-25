@@ -3,7 +3,8 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[2.9.4](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|24.11.2021@16:02|:rocket:|
+|[2.9.5](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|25.11.2021@09:36|:rocket:|
+|[2.9.4](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|24.11.2021@16:02||
 |[2.9.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|24.11.2021@11:30||
 |[2.9.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@17:39||
 |[2.9.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@14:41||
@@ -26,8 +27,8 @@
 |service|release|last modified|
 |----|----|----|
 |api-gateway-service|[2.9.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/2.9.1)|23.11.2021@13:42|
-|management-service|[2.9.4](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.4)|24.11.2021@16:02|
-management-ui|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|24.11.2021@10:04|
+|management-service|[2.9.5](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/2.9.4)|25.11.2021@09:36|
+|management-ui|[2.9.2](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/2.9.1)|24.11.2021@10:04|
 
 # 2.8.x
 ### APPS
