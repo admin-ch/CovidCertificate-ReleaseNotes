@@ -20,7 +20,7 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[2.9.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|30.11.2021@03:00-04:00|
+|prod|[2.9.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|30.11.2021@02:00-03:00|
 
 
 # 2.9.x
