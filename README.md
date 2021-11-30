@@ -3,25 +3,15 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02|:rocket:|
 |[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@11:41|:rocket:|
-|[2.9.8](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@08:28||
-|[2.9.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|25.11.2021@14:09||
-|[2.9.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|25.11.2021@11:51||
-|[2.9.5](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|25.11.2021@09:36||
-|[2.9.4](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|24.11.2021@16:02||
-|[2.9.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|24.11.2021@11:30||
-|[2.9.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@17:39||
-|[2.9.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@14:41||
-|[2.9.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|23.11.2021@13:49||
-|[2.8.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#28x)|prod|18.11.2021@21:11|:rocket:|
 
 :rocket: : currently deployed
 ## Planned
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[2.9.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|30.11.2021@02:00-04:00|
-
+|prod|-|-|
 
 # 2.9.x
 * New vaccination certificate for tourists (interfaces: UI/[CSV](https://github.com/admin-ch/CovidCertificate-UIdoc)/[API](https://github.com/admin-ch/CovidCertificate-Apidoc))
