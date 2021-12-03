@@ -3,15 +3,24 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|test|01.12.2021@12:18|:rocket:|
 |[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02|:rocket:|
-|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@11:41|:rocket:|
+|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@11:41||
 
 :rocket: : currently deployed
 ## Planned
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|-|-|
+|prod|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|05.12.2021@00:00-00:45|
+
+# 2.10.x
+* In-app light certificate QR-Code maximal duration is reduced from 48h to 24h.
+* Rapid-test based Test-Certificate validity is reduced from 48h to 24h. 
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|light-certificate-generation-service|[2.10.0](https://github.com/admin-ch/CovidCertificate-Light-Certificate-Generation-Service/releases/tag/2.10.0)|01.12.2021@15:12|
 
 # 2.9.x
 * New vaccination certificate for tourists (interfaces: UI/[CSV](https://github.com/admin-ch/CovidCertificate-UIdoc)/[API](https://github.com/admin-ch/CovidCertificate-Apidoc))
