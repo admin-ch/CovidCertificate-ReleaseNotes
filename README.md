@@ -3,8 +3,9 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|prod|06.12.2021@00:01|:rocket:|
 |[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|test|01.12.2021@12:18|:rocket:|
-|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02|:rocket:|
+|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02||
 |[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@11:41||
 
 :rocket: : currently deployed
@@ -12,7 +13,7 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|05.12.2021@00:00-00:45|
+|prod|-|-|
 
 # 2.10.x
 * In-app light certificate QR-Code maximal duration is reduced from 48h to 24h.
