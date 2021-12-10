@@ -3,8 +3,10 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|prod|06.12.2021@00:01||
+|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|test|10.12.2021@10:12|:rocket:|
 |[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|prod|06.12.2021@00:01|:rocket:|
-|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|test|01.12.2021@12:18|:rocket:|
+|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|test|01.12.2021@12:18||
 |[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02||
 |[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@11:41||
 
@@ -14,6 +16,17 @@
 |----|----|----|
 |test|-|-|
 |prod|-|-|
+
+# 3.0.x
+* Product grace period for rapid tests
+* Splitting of Astra Zeneca vaccines
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-api-gateway-service|[3.0.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.0.1)|09.12.2021@10:41|
+|cc-management-service|[3.0.3](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/20211210_110141)|10.12.2021@11:01|
+|cc-management-ui|[3.0.3](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.0.3)|10.12.2021@13:50|
+|cc-printing-service|[3.0.1](https://github.com/admin-ch/CovidCertificate-Printing-Service/releases/tag/20211210_105309)|10.12.2021@09:52|
 
 # 2.10.x
 * In-app light certificate QR-Code maximal duration is reduced from 48h to 24h.
