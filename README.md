@@ -3,8 +3,10 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|prod|13.12.2021@00:12|:rocket:|
-|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|test|10.12.2021@10:12|:rocket:|
+|[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|prod|20.12.2021@00:01|:rocket:|
+|[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|test|17.12.2021@15:53|:rocket:|
+|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|prod|13.12.2021@00:12||
+|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|test|10.12.2021@10:12||
 |[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|prod|06.12.2021@00:01||
 |[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|test|01.12.2021@12:18||
 |[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02||
@@ -16,6 +18,15 @@
 |----|----|----|
 |test|-|-|
 |prod|-|-|
+
+# 3.1.x
+* Upgrade of dependencies
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-api-gateway-service|[3.1.0](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.1.0)|17.12.2021@14:49|
+|cc-management-service|[3.1.0](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.1.0)|17.12.2021@14:45|
+|cc-printing-service|[3.1.0](https://github.com/admin-ch/CovidCertificate-Printing-Service/releases/tag/3.1.0)|17.12.2021@14:46|
 
 # 3.0.x
 * Product grace period for rapid tests
