@@ -17,7 +17,7 @@
 ## Planned
 |environment|release|date|
 |----|----|----|
-|test|[3.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|10.01.2022@00:15|
+|test|[3.2.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|10.01.2022@00:15|
 |prod|-|-|
 
 # 3.2.x
