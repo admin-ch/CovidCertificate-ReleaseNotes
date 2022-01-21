@@ -21,6 +21,18 @@
 |test|-|-|
 |prod|-|-|
 
+
+# 3.3.x
+* New Recovery (Rapid Antigen Test Positive)-Certificate (WebUI inclusive CSV and API)
+* Disable Exceptional-Certificate creation through CSV
+* Support for booster vaccination
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-api-gateway-service|[3.3.0](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.3.0)|19.01.2022@17:37|
+|cc-management-service|[3.3.7](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.3.7)|21.01.2022@16:32|
+|cc-management-ui|[3.3.9](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.3.9)|21.01.2022@16:29|
+
 # 3.2.x
 * WebUi: New Exceptional-Certificate
 * API-Doc: birthday description enhanced
