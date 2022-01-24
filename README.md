@@ -3,8 +3,9 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|prod|24.01.2022@14:15|:rocket:|
 |[3.3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|test|21.01.2022@16:43|:rocket:|
-|[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|prod|10.01.2022@00:10|:rocket:|
+|[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|prod|10.01.2022@00:10||
 |[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|test|04.01.2022@11:48||
 |[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|prod|20.12.2021@00:01||
 |[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|test|17.12.2021@15:53||
@@ -20,7 +21,7 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[3.3.x](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|24.01.2022@01:00|
+|prod|-|-|
 
 
 # 3.3.x
@@ -30,10 +31,9 @@
 #### Services release details
 |service|release|last modified|
 |----|----|----|
-|cc-api-gateway-service|[3.3.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.3.1)|24.01.2022@10:33|
-|cc-management-service|[3.3.8](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.3.8)|24.01.2022@10:33|
-|cc-printing-service|[3.1.1](https://github.com/admin-ch/CovidCertificate-Printing-Service/releases/tag/3.1.1)|24.01.2022@10:34|
-|cc-management-ui|[3.3.9](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.3.9)|21.01.2022@16:29|
+|cc-api-gateway-service|[3.3.0](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.3.1)|19.01.2022@17:37|
+|cc-management-service|[3.3.7](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.3.7)|21.01.2022@16:32|
+|cc-management-ui|[3.3.10](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.3.10)|24.01.2022@13:24|
 
 # 3.2.x
 * WebUi: New Exceptional-Certificate
