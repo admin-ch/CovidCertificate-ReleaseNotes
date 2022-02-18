@@ -3,6 +3,7 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|test|18.02.2022@11:30|:rocket:|
 |[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|prod|24.01.2022@14:15|:rocket:|
 |[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|test|24.01.2022@13:30|:rocket:|
 |[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|prod|10.01.2022@00:10||
@@ -11,18 +12,24 @@
 |[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|test|17.12.2021@15:53||
 |[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|prod|13.12.2021@00:12||
 |[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|test|10.12.2021@10:12||
-|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|prod|06.12.2021@00:01||
-|[2.10.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#210x)|test|01.12.2021@12:18||
-|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|prod|30.11.2021@02:02||
-|[2.9.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#29x)|test|26.11.2021@11:41||
 
 :rocket: : currently deployed
 ## Planned
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|-|-|
+|prod|[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|21.02.2022@06:00|
 
+# 3.6.x
+* UVCI revocation can be flaged as "fraud". The revoked "fraud" flaged UVCI will be sync with the EU system.
+* Certificates endpoints can be toggled (enable/disable).
+* A log is created for certificate delivered by app transfer.
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-api-gateway-service|[3.6.2](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.6.2)|18.02.2022@11:28|
+|cc-management-service|[3.6.5](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.6.5)|18.02.2022@08:31|
+|cc-management-ui|[3.6.5](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.6.5)|18.02.2022@11:04|
 
 # 3.3.x
 * New Recovery (Rapid Antigen Test Positive)-Certificate (WebUI inclusive CSV and API)
