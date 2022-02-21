@@ -3,8 +3,9 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|prod|18.02.2022@06:30|:rocket:|
 |[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|test|18.02.2022@11:30|:rocket:|
-|[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|prod|24.01.2022@14:15|:rocket:|
+|[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|prod|24.01.2022@14:15||
 |[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|test|24.01.2022@13:30||
 |[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|prod|10.01.2022@00:10||
 |[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|test|04.01.2022@11:48||
@@ -18,7 +19,7 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|21.02.2022@06:00|
+|prod|-|-|
 
 # 3.6.x
 * UVCI revocation can be flaged as "fraud". The revoked "fraud" flaged UVCI will be sync with the EU system.
@@ -27,8 +28,8 @@
 #### Services release details
 |service|release|last modified|
 |----|----|----|
-|cc-api-gateway-service|[3.6.2](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.6.2)|18.02.2022@11:28|
-|cc-management-service|[3.6.5](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.6.5)|18.02.2022@08:31|
+|cc-api-gateway-service|[3.6.3](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.6.3)|18.02.2022@17:06|
+|cc-management-service|[3.6.9](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.6.9)|18.02.2022@23:33|
 |cc-management-ui|[3.6.5](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.6.5)|18.02.2022@11:04|
 
 # 3.3.x
