@@ -32,7 +32,7 @@
 |cc-api-gateway-service|[3.7.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.7.1)|02.03.2022@16:09|
 |cc-management-service|[3.7.4](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.7.4)|02.02.2022@17:36|
 |cc-light-generation-service|[2.14.0](https://github.com/admin-ch/CovidCertificate-Light-Certificate-Generation-Service/releases/tag/20220303_144759)|03.03.2022@13:49|
-|cc-management-ui|[3.7.4](hhttps://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.7.4)|01.03.2022@11:35|
+|cc-management-ui|[3.7.4](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.7.4)|01.03.2022@11:35|
 |cc-printing-service|[3.7.0](https://github.com/admin-ch/CovidCertificate-Printing-Service/releases/tag/3.7.0)|02.03.2022@16:07|
 
 # 3.6.x
