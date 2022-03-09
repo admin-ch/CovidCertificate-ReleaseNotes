@@ -21,7 +21,7 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|07.03.2022@06:45|
+|prod|-|-|
 
 # 3.7.x
 * The environment where the productive CovidCertificate System is hosted required some that are reflected with new truststore.jks files.
