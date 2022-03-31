@@ -3,18 +3,12 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|prod|07.03.2022@18:00|:rocket:|
-|[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|test|03.03.2022@14:00|:rocket:|
+|[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|prod|31.03.2022@06:00|:rocket:|
+|[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|prod|30.03.2022@14:00|:rocket:|
+|[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|prod|07.03.2022@18:00||
+|[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|test|03.03.2022@14:00||
 |[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|prod|21.02.2022@06:30||
 |[3.6](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#36x)|test|18.02.2022@11:30||
-|[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|prod|24.01.2022@14:15||
-|[3.3.10](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#33x)|test|24.01.2022@13:30||
-|[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|prod|10.01.2022@00:10||
-|[3.2.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#32x)|test|04.01.2022@11:48||
-|[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|prod|20.12.2021@00:01||
-|[3.1.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#31x)|test|17.12.2021@15:53||
-|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|prod|13.12.2021@00:12||
-|[3.0.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#30x)|test|10.12.2021@10:12||
 
 :rocket: : currently deployed
 ## Planned
@@ -22,6 +16,15 @@
 |----|----|----|
 |test|-|-|
 |prod|-|-|
+
+# 3.9.x
+* The permission functionality support the new and the legacy roles. 
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-management-service|[3.9.14](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/3.9.14)|30.03.2022@13:47|
+|cc-api-gateway-service|[3.9.8](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/3.9.8)|30.03.2022@10:20|
+|cc-management-ui|[3.9.4](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/3.9.4)|25.03.2022@09:56|
 
 # 3.7.x
 * The environment where the productive CovidCertificate System is hosted required some that are reflected with new truststore.jks files.
