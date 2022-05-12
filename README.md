@@ -4,7 +4,7 @@
 |release|environment|date|note|
 |----|----|----|----|
 |[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|02.05.2022@07:00|:rocket:|
-|[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|14.04.2022@09:00|:rocket:|
+|[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|11.05.2022@09:00|:rocket:|
 |[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|prod|31.03.2022@06:00||
 |[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|test|30.03.2022@14:00||
 |[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|prod|07.03.2022@18:00||
@@ -21,11 +21,12 @@
 
 # 4.0.x
 * A EU compatible recovery certificate based on the result of a rapid antigen test is supported by the software.
+* TypeCode and ManufacturerCode are no longer mandatories properties.
 #### Services release details
 |service|release|last modified|
 |----|----|----|
-|cc-management-service|[4.0.4](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.0.4)|29.04.2022@16:40|
-|cc-management-ui|[4.0.7](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.0.7)|02.05.2022@09:34|
+|cc-management-service|[4.0.5](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.0.5)|
+|cc-management-ui|[4.0.8](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.0.8)|
 
 # 3.9.x
 * The permission functionality support the new and the legacy roles. 
