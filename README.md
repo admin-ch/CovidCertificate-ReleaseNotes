@@ -25,8 +25,8 @@
 #### Services release details
 |service|release|last modified|
 |----|----|----|
-|cc-management-service|[4.0.5](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.0.5)|
-|cc-management-ui|[4.0.8](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.0.8)|
+|cc-management-service|[4.0.5](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.0.5)|16.05.2022@07:16|
+|cc-management-ui|[4.0.8](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.0.8)|16.05.2022@07:22|
 
 # 3.9.x
 * The permission functionality support the new and the legacy roles. 
