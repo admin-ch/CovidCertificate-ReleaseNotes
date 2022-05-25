@@ -3,8 +3,10 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|30.05.2022@07:00||
+|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|23.05.2022@09:00|:rocket:|
 |[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|02.05.2022@07:00|:rocket:|
-|[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|11.05.2022@09:00|:rocket:|
+|[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|11.05.2022@09:00||
 |[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|prod|31.03.2022@06:00||
 |[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|test|30.03.2022@14:00||
 |[3.7](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#37x)|prod|07.03.2022@18:00||
@@ -18,6 +20,18 @@
 |----|----|----|
 |test|-|-|
 |prod|-|-|
+
+# 4.1.x
+* Mass revocation
+* Maintenance messages
+* Bugfixes role concept
+* Text modifications recovery form
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-management-service|[4.1.4](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.1.4)|25.05.2022@14:00|
+|cc-api-gateway-service|[4.1.0](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/4.1.0)|13.05.2022@07:40|
+|cc-management-ui|[4.1.9](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.1.9)|25.05.2022@15:25|
 
 # 4.0.x
 * A EU compatible recovery certificate based on the result of a rapid antigen test is supported by the software.
