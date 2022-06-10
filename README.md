@@ -3,9 +3,11 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|30.05.2022@07:00||
-|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|23.05.2022@09:00|:rocket:|
-|[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|02.05.2022@07:00|:rocket:|
+|[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|prod|13.06.2022@07:00||
+|[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|test|08.06.2022@07:00|:rocket:|
+|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|prod|30.05.2022@07:00|:rocket:|
+|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|test|23.05.2022@09:00||
+|[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|02.05.2022@07:00||
 |[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|11.05.2022@09:00||
 |[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|prod|31.03.2022@06:00||
 |[3.9](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#39x)|test|30.03.2022@14:00||
@@ -19,7 +21,17 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|-|-|
+|prod|4.2|13.06.2022@07:00|
+
+# 4.2.x
+* A2 Report generation
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-management-service|[4.2.2](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.2.2)|09.06.2022@15:00|
+|cc-api-notification-service|[4.0.9](https://github.com/admin-ch/CovidCertificate-Notification-Service/releases/tag/4.0.9)|24.05.2022@09:00|
+|cc-management-ui|[4.2.6](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.2.6)|09.06.2022@15:00|
+|cc-report-service|1.0.0|01.06.2022@17:00|
 
 # 4.1.x
 * Mass revocation
