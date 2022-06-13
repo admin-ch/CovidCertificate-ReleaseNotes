@@ -3,9 +3,9 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
-|[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|prod|13.06.2022@07:00||
+|[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|prod|13.06.2022@07:00|:rocket:|
 |[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|test|08.06.2022@07:00|:rocket:|
-|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|prod|30.05.2022@07:00|:rocket:|
+|[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|prod|30.05.2022@07:00||
 |[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|test|23.05.2022@09:00||
 |[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|02.05.2022@07:00||
 |[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|test|11.05.2022@09:00||
@@ -21,7 +21,7 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|4.2|13.06.2022@07:00|
+|prod|-|-|
 
 # 4.2.x
 * A2 Report generation
