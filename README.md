@@ -3,8 +3,10 @@
 ## History
 |release|environment|date|note|
 |----|----|----|----|
+|[4.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#43x)|prod|27.06.2022@07:00||
+|[4.3](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#43x)|test|23.06.2022@14:00|:rocket:|
 |[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|prod|13.06.2022@07:00|:rocket:|
-|[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|test|08.06.2022@07:00|:rocket:|
+|[4.2](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#42x)|test|08.06.2022@07:00||
 |[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|prod|30.05.2022@07:00||
 |[4.1](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#41x)|test|23.05.2022@09:00||
 |[4.0](https://github.com/admin-ch/CovidCertificate-ReleaseNotes#40x)|prod|02.05.2022@07:00||
@@ -21,7 +23,17 @@
 |environment|release|date|
 |----|----|----|
 |test|-|-|
-|prod|-|-|
+|prod|4.3|27.06.2022@07:00|
+
+# 4.3.x
+* Umwandlung technisch ablaufender Impfzertifikate
+* Vereinfachungen EU RAT
+#### Services release details
+|service|release|last modified|
+|----|----|----|
+|cc-management-service|[4.3.3](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.3.3)|23.06.2022@09:00|
+|cc-management-ui|[4.3.3](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.3.3)|23.06.2022@12:00|
+|cc-report-service|1.0.3|21.06.2022@15:00|
 
 # 4.2.x
 * A2 Report generation
