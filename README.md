@@ -36,11 +36,11 @@
 |service|release|last modified|
 |----|----|----|
 |cc-api-gateway-service|[4.4.1](https://github.com/admin-ch/CovidCertificate-Api-Gateway-Service/releases/tag/4.4.1)|19.07.2022@15:00|
-|cc-management-service|[4.4.1](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.4.1)|04.07.2022@14:30|
-|cc-management-ui|[4.4.5](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.4.5)|01.07.2022@15:30|
+|cc-management-service|[4.4.6](https://github.com/admin-ch/CovidCertificate-Management-Service/releases/tag/4.4.6)|19.07.2022@11:00|
+|cc-management-ui|[4.4.14](https://github.com/admin-ch/CovidCertificate-Management-UI/releases/tag/4.4.14)|21.07.2022@15:30|
 |cc-signing-service|[4.4.3](https://github.com/admin-ch/CovidCertificate-Signing-Service/releases/tag/4.4.3)|18.07.2022@16:00|
-|cc-report-service|4.0.0|04.07.2022@14:30|
-|cc-notification-service|[4..4.1](https://github.com/admin-ch/CovidCertificate-Notification-Service/releases/tag/4.4.1)|19.07.2022@16:00|
+|cc-report-service|4.4.5|21.07.2022@11:50|
+|cc-notification-service|[4.4.1](https://github.com/admin-ch/CovidCertificate-Notification-Service/releases/tag/4.4.1)|20.07.2022@14:30|
 
 # 4.3.x
 * Umwandlung technisch ablaufender Impfzertifikate
